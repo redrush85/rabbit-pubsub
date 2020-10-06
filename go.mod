@@ -1,4 +1,4 @@
-module code.moba.live/dev/core/backend/rabbit-pubsub
+module github.com/redrush85/rabbit-pubsub
 
 go 1.12
 
